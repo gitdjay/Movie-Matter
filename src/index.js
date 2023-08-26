@@ -6,17 +6,6 @@ import App from "./App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-// function Test() {
-//   const [movieRating, setMovieRating] = useState(0);
-
-//   return (
-//     <div>
-//       <StarRating color="blue" maxRating={10} onSetRating={setMovieRating} />
-//       <p>This movie is rated {movieRating} stars on imdb.</p>
-//     </div>
-//   );
-// }
-
 root.render(
   <React.StrictMode>
     <App />
