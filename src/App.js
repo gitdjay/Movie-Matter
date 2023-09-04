@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import WatchedSummary from "./components/WatchedSummary";
 import Navbar from "./components/Navbar";
